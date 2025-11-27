@@ -11,12 +11,12 @@ else: # Caso os números sejam iguais
 
 
 #Exercicio 02
-#letra = str(input('Digite uma letra: ')).lower()
-#vogais = 'aeiou'
-#if letra in vogais:
- #   print('A letra é uma vogal')
-#else:
- #   print('A letra é uma consoante')
+letra = str(input('Digite uma letra: ')).lower()
+vogais = 'aeiou'
+if letra in vogais:
+   print('A letra é uma vogal')
+else:
+   print('A letra é uma consoante')
 
 
 #Exercicio 03
@@ -93,4 +93,5 @@ if n//1 == n:
     print('Número inteiro')
 else:
     print('Número decimal')
+
 
