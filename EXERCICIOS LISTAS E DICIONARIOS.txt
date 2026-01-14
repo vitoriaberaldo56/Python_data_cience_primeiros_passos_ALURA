@@ -1,0 +1,104 @@
+🟦 Exercícios com Listas (Básico)
+
+Crie uma lista com 5 números inteiros digitados pelo usuário e mostre a lista completa.
+
+Dada uma lista de números, exiba:
+
+o maior valor
+
+o menor valor
+
+a soma de todos os elementos
+
+Crie uma lista com nomes e permita que o usuário procure um nome. Informe se ele existe ou não na lista.
+
+Crie uma lista vazia e permita que o usuário adicione 5 elementos usando append().
+
+Dada uma lista, mostre quantas vezes um determinado valor aparece (count()).
+
+Crie uma lista de números e mostre-a ordenada:
+
+em ordem crescente
+
+em ordem decrescente
+
+🟦 Exercícios com Listas (Intermediário)
+
+Crie uma lista de números e gere outra lista contendo apenas os números pares.
+
+Peça ao usuário vários números até ele digitar 0. Armazene todos em uma lista e depois mostre:
+
+quantidade de números digitados
+
+média dos valores
+
+Crie uma lista de notas e remova todas as notas abaixo de 6.
+
+Dada uma lista com valores repetidos, crie uma nova lista sem valores duplicados.
+
+Simule um carrinho de compras:
+
+adicione produtos a uma lista
+
+permita remover produtos
+
+exiba a lista final
+
+🟨 Exercícios com Dicionários (Básico)
+
+Crie um dicionário com dados de uma pessoa: nome, idade e cidade. Exiba todas as informações.
+
+Permita que o usuário informe uma chave e mostre o valor correspondente no dicionário.
+
+Crie um dicionário com 3 produtos e seus preços. Mostre apenas os nomes dos produtos.
+
+Dado um dicionário, verifique se uma chave informada pelo usuário existe.
+
+Atualize o valor de uma chave existente em um dicionário.
+
+🟨 Exercícios com Dicionários (Intermediário)
+
+Crie um dicionário para armazenar:
+
+nome do aluno
+
+3 notas
+Calcule e mostre a média.
+
+Crie um dicionário com nomes de alunos e suas médias. Mostre apenas os alunos aprovados (média ≥ 6).
+
+Conte quantas vezes cada letra aparece em uma palavra digitada pelo usuário (use dicionário).
+
+Crie um dicionário que armazene produtos e quantidades em estoque. Permita:
+
+adicionar produtos
+
+atualizar quantidades
+
+Simule um sistema de login:
+
+dicionário com usuários e senhas
+
+verifique se o login é válido
+
+🟥 Exercícios Combinando Listas + Dicionários
+
+Crie uma lista de dicionários para armazenar vários alunos (nome e nota).
+
+Crie um cadastro de funcionários usando:
+
+lista para armazenar vários funcionários
+
+dicionário para armazenar os dados de cada um
+
+Crie um sistema simples de votação:
+
+lista com candidatos
+
+dicionário para contar os votos
+
+Simule uma agenda de contatos:
+
+dicionário com nome e telefone
+
+permita adicionar, remover e buscar contatos
